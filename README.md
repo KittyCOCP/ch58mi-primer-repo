@@ -19,6 +19,10 @@ cd ch58mi-primer-repo
 ├── script.js
 ├── index.html
 └── styles.css
+└── basic-html
+└── bucle.html
+└── buzzfizz.py
+└── calculadora.py
 ```
 ## 👏 Créditos
 Hecho con Sangre y sudor 💪👊 por [KittyCOCP](https://github.com/KittyCOCP).
